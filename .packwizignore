@@ -3,3 +3,12 @@
 
 # Exclude README
 /README.md
+
+# Exclude modpack-data
+modpack-data/
+
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
